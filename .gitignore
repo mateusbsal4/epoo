@@ -1,0 +1,8 @@
+build/
+cmake/
+!cmake/.gitkeep
+
+__pycache__
+.pytest_cache
+
+.vscode
